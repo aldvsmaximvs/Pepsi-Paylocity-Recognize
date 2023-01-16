@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaylocityAPITest", "PaylocityAccessTest\PaylocityAPITest.csproj", "{87FA21D9-6508-42B2-96F8-1612D8DDC195}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecognizeTest", "RecognizeTest\RecognizeTest.csproj", "{868C8935-8CC1-459C-AF21-61C1B3A1CA5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectToPaylocity.Service", "ConnectToPaylocity.Service\ConnectToPaylocity.Service.csproj", "{B581F28E-3890-4B12-94DE-450D74BBEDB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaylocityToRecognize.Model", "PaylocityToRecognize.Model\PaylocityToRecognize.Model.csproj", "{838BC6D6-7363-4183-9FB2-A3C1BA4FC0B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaylocityToRecognizeConsole", "PaylocityToRecognizeConsole\PaylocityToRecognizeConsole.csproj", "{98FF5E89-C49B-4173-A298-D99B92A2FECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaylocityHelper", "PaylocityHelper\PaylocityHelper.csproj", "{F47D253C-86B3-4E4F-AC5E-E92FBEEDA30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FA21D9-6508-42B2-96F8-1612D8DDC195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FA21D9-6508-42B2-96F8-1612D8DDC195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FA21D9-6508-42B2-96F8-1612D8DDC195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FA21D9-6508-42B2-96F8-1612D8DDC195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868C8935-8CC1-459C-AF21-61C1B3A1CA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868C8935-8CC1-459C-AF21-61C1B3A1CA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868C8935-8CC1-459C-AF21-61C1B3A1CA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868C8935-8CC1-459C-AF21-61C1B3A1CA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B581F28E-3890-4B12-94DE-450D74BBEDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B581F28E-3890-4B12-94DE-450D74BBEDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B581F28E-3890-4B12-94DE-450D74BBEDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B581F28E-3890-4B12-94DE-450D74BBEDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838BC6D6-7363-4183-9FB2-A3C1BA4FC0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838BC6D6-7363-4183-9FB2-A3C1BA4FC0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838BC6D6-7363-4183-9FB2-A3C1BA4FC0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838BC6D6-7363-4183-9FB2-A3C1BA4FC0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FF5E89-C49B-4173-A298-D99B92A2FECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FF5E89-C49B-4173-A298-D99B92A2FECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FF5E89-C49B-4173-A298-D99B92A2FECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FF5E89-C49B-4173-A298-D99B92A2FECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47D253C-86B3-4E4F-AC5E-E92FBEEDA30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47D253C-86B3-4E4F-AC5E-E92FBEEDA30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47D253C-86B3-4E4F-AC5E-E92FBEEDA30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47D253C-86B3-4E4F-AC5E-E92FBEEDA30A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2840C634-D6C0-4A8D-91BD-FE362F74BB34}
+	EndGlobalSection
+EndGlobal
